@@ -1,0 +1,40 @@
+{
+  "sparring": [
+    {
+      "id": "sparring-1",
+      "src": "https://picsum.photos/seed/sparring1/600/400",
+      "alt": "Sparring session 1",
+      "hint": "arm wrestling match"
+    },
+    {
+      "id": "sparring-2",
+      "src": "https://picsum.photos/seed/sparring2/600/400",
+      "alt": "Sparring session 2",
+      "hint": "arm wrestling training"
+    },
+    {
+      "id": "sparring-3",
+      "src": "https://picsum.photos/seed/sparring3/600/400",
+      "alt": "Sparring session 3",
+      "hint": "arm wrestling competition"
+    },
+    {
+      "id": "sparring-4",
+      "src": "https://picsum.photos/seed/sparring4/600/400",
+      "alt": "Sparring session 4",
+      "hint": "arm wrestlers"
+    },
+    {
+      "id": "sparring-5",
+      "src": "https://picsum.photos/seed/sparring5/600/400",
+      "alt": "Sparring session 5",
+      "hint": "gym training"
+    },
+    {
+      "id": "sparring-6",
+      "src": "https://picsum.photos/seed/sparring6/600/400",
+      "alt": "Sparring session 6",
+      "hint": "intense workout"
+    }
+  ]
+}
