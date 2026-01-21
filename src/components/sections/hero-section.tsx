@@ -9,8 +9,8 @@ export function HeroSection() {
     >
       <div className="absolute inset-0 z-0 bg-black">
         <Image
-          src="https://picsum.photos/seed/armwrestle/1920/1080"
-          data-ai-hint="arm wrestling intense"
+          src="https://images.unsplash.com/photo-1593444976569-9a4f494a8527?q=80&w=1920&h=1080&fit=crop"
+          data-ai-hint="arm wrestling match"
           alt="Pozadina za obaranje ruku"
           fill
           className="object-cover opacity-30"
